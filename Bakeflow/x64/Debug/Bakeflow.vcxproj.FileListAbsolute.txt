@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\Projects\Bakeflow\Bakeflow\x64\Debug\Bakeflow.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects\Bakeflow\Bakeflow\x64\Debug\Bakeflow.Dashboard.resources
+C:\Users\user\Desktop\Projects\Bakeflow\Bakeflow\x64\Debug\Bakeflow.MyForm.resources
+C:\Users\user\Desktop\Projects\Bakeflow\Bakeflow\x64\Debug\Bakeflow.vcxproj.GenerateResource.cache

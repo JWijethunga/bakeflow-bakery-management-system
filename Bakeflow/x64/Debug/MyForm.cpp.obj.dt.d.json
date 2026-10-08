@@ -1,9 +1,10 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\user\\desktop\\projects\\bakeflow\\myform.h",
+        "Source": "c:\\users\\user\\desktop\\projects\\bakeflow\\myform.cpp",
         "ProvidedModule": "",
         "Includes": [
+            "c:\\users\\user\\desktop\\projects\\bakeflow\\myform.h",
             "c:\\users\\user\\desktop\\projects\\bakeflow\\dashboard.h"
         ],
         "ImportedModules": [],
