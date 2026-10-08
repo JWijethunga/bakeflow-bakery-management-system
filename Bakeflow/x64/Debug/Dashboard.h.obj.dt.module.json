@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Bakeflow\\x64\\Debug\\Dashboard.obj",
+            "outputs": [
+                "Bakeflow\\x64\\Debug\\Dashboard.h.obj.dt.module.json",
+                "Bakeflow\\x64\\Debug\\Dashboard.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
