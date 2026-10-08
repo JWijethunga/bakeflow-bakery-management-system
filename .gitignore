@@ -1,0 +1,19 @@
+# Visual Studio files & directories
+.vs/
+*.vsidx
+bin/
+obj/
+*.user
+
+# Node / JS dependencies & builds
+node_modules/
+dist/
+build/
+
+# Environment files & secret keys
+.env
+.env.local
+
+# Operating System system files
+.DS_Store
+Thumbs.db
