@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Bakeflow\\x64\\Debug\\DBManager.obj",
+            "outputs": [
+                "Bakeflow\\x64\\Debug\\DBManager.h.obj.dt.module.json",
+                "Bakeflow\\x64\\Debug\\DBManager.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
