@@ -1,0 +1,54 @@
+# Visual Studio / C++ / .NET WinForms project ignore patterns
+
+# Visual Studio workspace and cache directories
+.vs/
+*.user
+*.suo
+*.userprefs
+*.vcxproj.user
+
+# C++ specific temporary/cache files
+*.opendb
+*.aps
+ipch/
+*.db
+*.VC.db
+
+# Build output
+bin/
+obj/
+x64/
+Debug/
+Release/
+
+# IDE settings
+.vscode/
+
+# Packages & NuGet
+packages/
+*.nupkg
+*.nuget.props
+
+# Generated files
+*.g.cs
+*.g.i.cs
+*.designer.cs
+
+# Cache, logs, and temporary files
+*.log
+*.tmp
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+
+# Publish output
+publish/
+
+# Resharper
+_ReSharper*/
+
+# OS files
+Thumbs.db
+.DS_Store
